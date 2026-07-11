@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "title": "A Day on Venus",
+    "description": "A single day on Venus lasts longer than an entire Venus year. Venus rotates extremely slowly.",
+    "category": "Astronomy",
+    "image": "https://picsum.photos/600/400?random=1"
+  },
+  {
+    "id": 2,
+    "title": "Honey Never Spoils",
+    "description": "Archaeologists have found jars of honey in ancient Egyptian tombs that are still edible after thousands of years.",
+    "category": "Food",
+    "image": "https://picsum.photos/600/400?random=2"
+  },
+  {
+    "id": 3,
+    "title": "Octopuses Have Three Hearts",
+    "description": "Two hearts pump blood to the gills, while the third pumps blood to the rest of the body.",
+    "category": "Animals",
+    "image": "https://picsum.photos/600/400?random=3"
+  },
+  {
+    "id": 4,
+    "title": "The Moon is Drifting Away",
+    "description": "The Moon moves about 3.8 centimeters farther from Earth every year.",
+    "category": "Astronomy",
+    "image": "https://picsum.photos/600/400?random=4"
+  },
+  {
+    "id": 5,
+    "title": "Greek Alphabet Legacy",
+    "description": "Many scientific and mathematical symbols, such as π and Δ, come from the Greek alphabet.",
+    "category": "Greek Culture",
+    "image": "https://picsum.photos/600/400?random=5"
+  },
+  {
+    "id": 6,
+    "title": "Bananas Are Berries",
+    "description": "Botanically speaking, bananas qualify as berries, but strawberries do not.",
+    "category": "Food",
+    "image": "https://picsum.photos/600/400?random=6"
+  },
+  {
+    "id": 7,
+    "title": "Lightning is Hotter Than the Sun",
+    "description": "A lightning bolt can reach temperatures around 30,000°C, hotter than the Sun's surface.",
+    "category": "Physics",
+    "image": "https://picsum.photos/600/400?random=7"
+  },
+  {
+    "id": 8,
+    "title": "Ancient Greeks Invented the Alarm Clock",
+    "description": "Plato reportedly used a water-powered alarm clock to signal the start of lectures.",
+    "category": "Greek History",
+    "image": "https://picsum.photos/600/400?random=8"
+  },
+  {
+    "id": 9,
+    "title": "Sharks Are Older Than Trees",
+    "description": "Sharks have existed for over 400 million years, predating the first trees by millions of years.",
+    "category": "Animals",
+    "image": "https://picsum.photos/600/400?random=9"
+  },
+  {
+    "id": 10,
+    "title": "The Eiffel Tower Grows",
+    "description": "During hot summer days, the Eiffel Tower can grow by up to 15 centimeters due to thermal expansion.",
+    "category": "Physics",
+    "image": "https://picsum.photos/600/400?random=10"
+  },
+  {
+    "id": 11,
+    "title": "Australia Is Wider Than the Moon",
+    "description": "Australia measures about 4,000 km across, while the Moon's diameter is roughly 3,474 km.",
+    "category": "Geography",
+    "image": "https://picsum.photos/600/400?random=11"
+  },
+  {
+    "id": 12,
+    "title": "Some Turtles Breathe Through Their Butt",
+    "description": "Certain freshwater turtle species can absorb oxygen through specialized structures near their tail.",
+    "category": "Animals",
+    "image": "https://picsum.photos/600/400?random=12"
+  },
+  {
+    "id": 13,
+    "title": "The First Computer Bug Was Real",
+    "description": "In 1947 engineers found an actual moth trapped inside a computer relay and called it a bug.",
+    "category": "Technology",
+    "image": "https://picsum.photos/600/400?random=13"
+  },
+  {
+    "id": 14,
+    "title": "Neutron Stars Are Incredibly Dense",
+    "description": "A teaspoon of neutron star material would weigh around a billion tons on Earth.",
+    "category": "Astronomy",
+    "image": "https://picsum.photos/600/400?random=14"
+  },
+  {
+    "id": 15,
+    "title": "Water Can Boil and Freeze at the Same Time",
+    "description": "At a special pressure called the triple point, water can exist as a solid, liquid and gas simultaneously.",
+    "category": "Physics",
+    "image": "https://picsum.photos/600/400?random=15"
+  }
+]
